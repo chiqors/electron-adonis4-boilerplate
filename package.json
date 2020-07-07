@@ -29,7 +29,7 @@
     "mysql": "^2.18.1"
   },
   "devDependencies": {
-    "electron": "^5.0.2"
+    "electron": "^9.1.0"
   },
   "autoload": {
     "App": "./app"
